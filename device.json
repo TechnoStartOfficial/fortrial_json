@@ -4,18 +4,21 @@
     "DeviceName" : "Redmi 7",
     "UserName" : "afterallafk",
     "Screenshots" : "https://t.me/projectblazeupdates/118",
-    "Support Group" : "https://t.me/afterallafkbuilds"
+    "Support Group" : "https://t.me/afterallafkbuilds",
+    "BuildDate" : "YYYY-MM-DD"
 },
 "surya": {
     "DeviceName" : "POCO X3 NFC",
     "UserName" : "MrTechnoStart",
     "Screenshots" : "https://t.me/projectblazeupdates/118",
-    "Support Group" : "https://t.me/TechnoStartUpdates"
+    "Support Group" : "https://t.me/TechnoStartUpdates",
+    "BuildDate" : "YYYY-MM-DD"
 },
 "sweet": {
     "DeviceName" : "Redmi Note 10 Pro/Max",
     "UserName" : "Ba_Sh_ArAT",
     "Screenshots" : "https://t.me/projectblazeupdates/118",
-    "Support Group" : "https://t.me/basharatbuilds"
+    "Support Group" : "https://t.me/basharatbuilds",
+    "BuildDate" : "YYYY-MM-DD"
 }
 }
